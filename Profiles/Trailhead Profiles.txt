@@ -1,1 +1,32 @@
+Name:Lakuur Sowmya Lakshmi
+Group : BSC[MECS]
+Email : sekharlakkur@gmail.com
+Learning track : Salesforce developer
+Trailhead profile:
+https://www.salesforce.com/trailblazer/sowmyalakshmilakkur
+Contact no:9959113187
 
+Name: SHAIK YASMEEN
+Group:BSC(MECS) 
+Email:
+Shaikhyasmeen1924@gmail.com
+Learning track:Salesforce Developer
+Trailhead profile: 
+https://www.salesforce.com/trailblazer/yasmeenshaikh
+Contact no:8464027656
+
+Name: Yamuka Bhanu Priya
+Group:BSC[MECS]
+Email: bhanubhanu0511@gmail.com
+Learning track: Salesforce developer
+Trailhead profile:
+https://www.salesforce.com/trailblazer/bhanupriyayamuka
+Contact no:9885958830
+
+Name: ithamvandana
+Group: BSC(MECS)
+Email: ithamvandana@gmail.com
+Learning track: Salesforce developer
+Trailhead profile:
+https://www.salesforce.com/trailblazer/vandanaitham
+Contact no.7799243528
